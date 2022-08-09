@@ -6,10 +6,10 @@ This will contain a Exploratory Risk Analysis for a online marketplace specializ
 The aim of this EDA(Exploratory Data Analysis) is to find the driving factors behind the loan default, variables that are strong indicators will be presented
 
 ## Methods Used for EDA (Exploratory Data Analysis):
-Data Handling and Cleaning
-Sanity Checks and Outlier Analysis
-Univariant Analysis
-Bivariant Analysis
+* Data Handling and Cleaning
+* Sanity Checks and Outlier Analysis
+* Univariant Analysis
+* Bivariant Analysis
 
 
 #### Project Version : V1
@@ -17,23 +17,23 @@ Bivariant Analysis
 #### Release Data    : 10/09/2022
 
 ### Language : 
-Python
+* Python
 
 ### IDE: 
-jupyter Notebook
+* jupyter Notebook
 
 ### Libraries Used :
-Pandas
-numpy
-matplotlib
-seaborn
-warnings
-plotly
+* Pandas
+* numpy
+* matplotlib
+* seaborn
+* warnings
+* plotly
 
 ### Files: 
-.pynb file -- jupyter file containing the code
-.pdf file -- power point  in PDF format
-.zip file --- containing original data (1 csv and 1 xlsx file)
+* .pynb file -- jupyter file containing the code
+* .pdf file -- power point  in PDF format
+* .zip file --- containing original data (1 csv and 1 xlsx file)
 
 
 
