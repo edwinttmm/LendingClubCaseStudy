@@ -35,5 +35,16 @@ The aim of this EDA(Exploratory Data Analysis) is to find the driving factors be
 * .pdf file -- power point  in PDF format
 * .zip file --- containing original data (1 csv and 1 xlsx file)
 
+## Summary
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
 
 
