@@ -23,12 +23,11 @@ The aim of this EDA(Exploratory Data Analysis) is to find the driving factors be
 * jupyter Notebook
 
 ### Libraries Used :
-* Pandas
-* numpy
-* matplotlib
-* seaborn
-* warnings
-* plotly
+* Pandas : 1.2.3
+* numpy : 1.20.3
+* matplotlib: 3.5.2
+* seaborn : 0.11.2
+* plotly : 5.9.0
 
 ### Files: 
 * .pynb file -- jupyter file containing the code
