@@ -66,9 +66,48 @@ The aim of this EDA(Exploratory Data Analysis) is to find the driving factors be
 	- The state **CA** has the highest number of borrowers and the state **NE** has the least number of borrowers
  10. According to the **Loan Issued Year Analysis**, we can conclude the following,
 		- Least number of loans issued in **2008** which is **2.75%** and the highest number of loans issued in **2011** which is **55.18%**  From **2008** to **2011** number of issued loans gradually getting **increased**
-	
+
+####  Bivariate Analysis
+
+ 1. According to the **Interest Rate to Loan Status Analysis**, we can conclude the following,  
+	- When the loan **Interest Rate** is increasing, the loan **Charged Off** percentage get increases
+ 2. According to the **Loan Amount to Loan Status Analysis**, we can conclude the following,  
+	- When the **Loan Amount** is increasing, the loan **Charged Off** percentage get increases
+ 3. According to the **Loan Amount to Loan Status Analysis**, we can conclude the following,  
+	- When the **Loan Amount** is increasing, the loan **Charged Off** percentage get increases
+ 4.   According to the **Home Ownership to Loan Status Analysis**, we can conclude the following,  
+		- When the borrower **Home Ownership** is other than **Rent, Mortgage or Own**, loan **Charged Off** percentage get increases
+ 5. According to the **Employment Length to Loan Status Analysis**, we can conclude the following,  
+	- When the **Employment Length** is increasing, the loan **Charged Off** percentage get increases
+ 6. According to the **Loan Issued Year to Loan Status Analysis**, we can conclude the following,  
+	- Most of the loans got **Charged Off**, issued between the years **2010 - 2011**
+ 7. According to the **Open Credit Lines to Loan Status**, we can conclude the following,  
+	- When the **Open Credit Lines** is increasing, loan **Charged Off** percentage get increases
+ 8. According to the **Monthly Installment to Loan Status**, we can conclude the following,  
+	- When the **Monthly Installment** is increasing from **0** to **1200**, the loan **Charged Off** percentage get increases
+ 9. According to the **Loan Grade to Loan Status Analysis**, we can conclude the following,  
+	- When moving from grade **A to G**, the loan **Charged Off** percentage get increases
+ 10. According to the **Payback to Loan Status Analysis**, we can conclude the following,  
+		- When the **Payback** is increasing, the loan **Charged Off** percentage get increases
+ 11. According to the **Loan Purpose to Loan Status**, we can conclude the following,  
+		- Most of the loans **Charged Off** were borrowed for House purposes
+ 12. According to the **Revolving Line Utilization Rate to Loan Status**, we can conclude the following,  
+		- When the **Revolving Line Utilization Rate** is increasing, the loan **Charged Off** percentage get increases
+
+#### Loan Performance
+-	Payment Expected with Interest: **454,362,431.76**
+-	Payment Expected without Interest: **364,618,850.00**
+-	Payment Received: **396,578,430.16**
+-	Expected Profit: **89,743,581.76**
+-	Loss Due to Defaulting: **57,784,001.60**
+-	Actual profit: **31,959,580.16**
+-	Percentage of profit Achieved to Expected: **35.61%**
+-	Percentage of Company Profit to investment: **8.77%**
+-	Percentage of Expected Company Profit to investment: **24.61%**
+
+#### Loan State Wise Distribution
+(https://github.com/edwinttmm/LendingClubCaseStudyv1/blob/final_draft/loan_state_wise_dist.png)
+ 
 ## Acknowledgements 
  - Upgrad/IITB
  - Online Sources : Stackoverflow, Pandas , seaborn , plotly, numpy , matplotlib
-
-
