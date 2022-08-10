@@ -120,7 +120,7 @@ The aim of this EDA(Exploratory Data Analysis) is to find the driving factors be
 -	Percentage of Expected Company Profit to investment: **24.61%**
 
 #### Loan State Wise Distribution
-(https://github.com/edwinttmm/LendingClubCaseStudyv1/blob/final_draft/loan_state_wise_dist.png)
+![alt text](https://github.com/edwinttmm/LendingClubCaseStudyv1/blob/main/loan_state_wise_dist.png?raw=true)
  
 ## Acknowledgements 
  - Upgrad/IITB
