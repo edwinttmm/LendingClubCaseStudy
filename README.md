@@ -1,4 +1,5 @@
 
+
 # LendingClubCaseStudyv1
 
 ## Project Introduction/Objective
@@ -93,6 +94,19 @@ The aim of this EDA(Exploratory Data Analysis) is to find the driving factors be
 		- Most of the loans **Charged Off** were borrowed for House purposes
  12. According to the **Revolving Line Utilization Rate to Loan Status**, we can conclude the following,  
 		- When the **Revolving Line Utilization Rate** is increasing, the loan **Charged Off** percentage get increases
+
+#### Recommendations 
+ - Annual income less than 20K at higher risk of defaulting
+ - Loan amount higher than 25K at risk of defaulting
+ - Higher the interest rate, higher the risk of defaulting
+ - People who pick longer loan term is slightly higher risk than the lower term people
+ - People on the Home Ownership status ‘Other’ is at slightly higher risk than other
+ - Overall loan(including interest) : As the loan gets higher the risk increases people are higher than 50K overall payback is at high risk
+ - People with open credit lines of 30-40 are at higher risk
+ - Smaller business is at higher risk of defaulting
+ - As the revolving line utilization increases the risk of defaulting increases
+ - As the ratio of income to debt gets closer the risk of defaulting gets higher.
+ - It's recommended to introduce an point based system to assess the risk of being defaulted (since multiple risk factors are associated with getting defaulted, point based system will be an ideal solution)
 
 #### Loan Performance
 -	Payment Expected with Interest: **454,362,431.76**
